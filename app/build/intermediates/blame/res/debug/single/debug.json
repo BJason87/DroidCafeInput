@@ -200,6 +200,10 @@
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorites_status.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorites_status.png"
+    },
+    {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -242,6 +246,18 @@
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7d576cc9aebae97e04cd445f362166ad\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorites_status.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_favorites_status.png"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_status_info.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-mdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_status_info.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_status_info.png"
     },
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -552,6 +568,10 @@
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_status_info.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_status_info.png"
+    },
+    {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -616,6 +636,10 @@
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_status_info.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_status_info.png"
+    },
+    {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -634,6 +658,10 @@
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorites_status.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-xxhdpi\\ic_favorites_status.png"
     },
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
@@ -718,6 +746,10 @@
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorites_status.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-xhdpi\\ic_favorites_status.png"
     },
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
@@ -844,6 +876,10 @@
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_status_info.xml.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_status_info.xml"
+    },
+    {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
@@ -878,6 +914,10 @@
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_status_info.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-xhdpi\\ic_status_info.png"
     },
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
@@ -990,6 +1030,10 @@
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\c5dbe9522f37234883629cf179d7a2d0\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorites_status.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorites_status.png"
     },
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
@@ -1160,6 +1204,10 @@
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorites_status.xml.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorites_status.xml"
+    },
+    {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
@@ -1270,6 +1318,10 @@
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_info.png"
     },
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\anim_tooltip_enter.xml.flat",
@@ -1502,6 +1554,10 @@
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Bonaventura Jason\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\030d72b9420decd180277c866faf268b\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorites_status.png.flat",
+        "source": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\src\\main\\res\\drawable-mdpi\\ic_favorites_status.png"
     },
     {
         "merged": "D:\\Bonaventura Jason\\Kuliah\\ITHB\\Semester 6\\Praktikum PAM\\Week 4\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
